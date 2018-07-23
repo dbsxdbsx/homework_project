@@ -1,4 +1,4 @@
-#Do "part of speech tagging'" with HMM 
+# Do "part of speech tagging'" with HMM 
 
 This is a homework project, aiming to do part of speech of tagging with a python module called `pomegranate`.
 
