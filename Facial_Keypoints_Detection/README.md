@@ -10,6 +10,10 @@ First, the method `CascadeClassifier` in `opencv `module  would be used to detec
 
 Second, by trainging bulks of face pictures, a model would be learned to detect face keypoints.
 
+## Preparation
+
+Please unzip 	`test.zip ` in folder  `data` first.
+
 ## Issue
 
 Accorindg to the result I ran before in the notebook, it is not quite good. Because the net model I defined in `models.py`  is according to the model referred in paper `Facial Key Points Detection using Deep Convolutional Neural Network-NaimishNe`.  And I misunderstood something:
